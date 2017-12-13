@@ -8,7 +8,8 @@ state = {
 
 
 	history={
-		owner = TAG
+		owner = HGP
+		add_core_of = HGP
 		victory_points = {
 			11564 1
 		}
@@ -19,8 +20,6 @@ state = {
 				naval_base = 3
 			}
 		}
-
-		add_core_of = TAG
 		 
 		 
 	}

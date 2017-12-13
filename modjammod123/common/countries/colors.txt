@@ -17,3 +17,8 @@ FPE = {
 	color = rgb { 237 41 57 }
 	color_ui = rgb { 237 41 57 }
 }
+
+HGP = {
+	color = rgb { 251 206 177 }
+	color_ui = rgb { 251 206 177 }
+}

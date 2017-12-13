@@ -1,0 +1,42 @@
+﻿l_english:
+
+
+#############################
+# party and other stuff
+#############################
+ HGP_paternal_autocrat_party:0 "Royalists"
+ HGP_paternal_autocrat_party_long:0 "Royalists"
+
+##################################
+# Country name
+##################################
+ HGP_totalist:0 "Hungary Pixel"
+ HGP_totalist_ADJ:0 "Hungary Pixel"
+ HGP_totalist_DEF:0 "Hungary Pixel"
+ HGP_syndicalist:0 "Hungary Pixel"
+ HGP_syndicalist_ADJ:0 "Hungary Pixel"
+ HGP_syndicalist_DEF:0 "Hungary Pixel"
+ HGP_radical_socialist:0 "Hungary Pixel"
+ HGP_radical_socialist_ADJ:0 "Hungary Pixel"
+ HGP_radical_socialist_DEF:0 "Hungary Pixel"
+ HGP_social_democrat:0 "Hungary Pixel Republic"
+ HGP_social_democrat_ADJ:0 "Hungary Pixel"
+ HGP_social_democrat_DEF:0 "Hungary Pixel Republic"
+ HGP_social_liberal:0 "Hungary Pixel Republic"
+ HGP_social_liberal_ADJ:0 "Hungary Pixel"
+ HGP_social_liberal_DEF:0 "Hungary Pixel Republic"
+ HGP_market_liberal:0 "Hungary Pixel Republic"
+ HGP_market_liberal_ADJ:0 "Hungary Pixel"
+ HGP_market_liberal_DEF:0 "Hungary Pixel Republic"
+ HGP_social_conservative:0 "Hungary Pixel Republic"
+ HGP_social_conservative_ADJ:0 "Hungary Pixel"
+ HGP_social_conservative_DEF:0 "Hungary Pixel Republic"
+ HGP_authoritarian_democrat:0 "Hungary Pixel Empire"
+ HGP_authoritarian_democrat_ADJ:0 "Hungary Pixel"
+ HGP_authoritarian_democrat_DEF:0 "Hungary Pixel Empire"
+ HGP_paternal_autocrat:0 "Crown Of HungarianPixel"
+ HGP_paternal_autocrat_ADJ:0 "The Crown Of HungarianPixel"
+ HGP_paternal_autocrat_DEF:0 "Crown Of HungarianPixel"
+ HGP_national_populist:0 "Hungary Pixel Empire"
+ HGP_national_populist_ADJ:0 "Hungary Pixel"
+ HGP_national_populist_DEF:0 "Hungary Pixel Empire"

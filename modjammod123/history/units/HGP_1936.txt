@@ -1,0 +1,266 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Infantry Division"     ####Themaincomponentofthearmy####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+
+	support = {
+	    engineer = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Infantry Brigade"     ####Nowwithartillery####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+	}
+
+	support = {
+        artillery = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+  	name = "Cavalry Division" ####Jesuswestillhavethisinthearmywtf####
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 0 y = 2 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		cavalry = { x = 1 y = 2 }
+	}
+
+}
+
+division_template = {
+	name = "Tank Brigade" ####Neverreallyimplementedthemproperly####
+
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+	}
+}
+
+####UNITS####
+####A nation that was born from blood and iron####
+
+units = {
+    division= {			
+		name = "1st Royal Division"		
+		location = 9660
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Royal Division"		
+		location = 9660
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Royal Division"		
+		location = 9660
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Royal Brigade"		
+		location = 9660
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Royal Brigade"		
+		location = 9660
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Royal Brigade"		
+		location = 9660
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Royal Brigade"		
+		location = 9660
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Royal Cavalry Division"		
+		location = 9660
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Royal Cavalry Division"		
+		location = 9660
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Royal Tank Division"		
+		location = 9660
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Royal Tank Division"		
+		location = 11564
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Royal Cavalry Division"		
+		location = 11564
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Royal Cavalry Division"		
+		location = 11564
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Royal Croatian Brigade"		
+		location = 11564
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Royal Croatian Brigade"		
+		location = 11564
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Royal Croatian Brigade"		
+		location = 11564
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Royal Croatian Brigade"		
+		location = 11564
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Royal Croatian Division"		
+		location = 11564
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Royal Croatian Division"		
+		location = 11564
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Royal Serbian Division"		
+		location = 11586
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Royal Serbian Division"		
+		location = 11586
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Royal Serbian Brigade"		
+		location = 11586
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Royal Serbian Brigade"		
+		location = 11586
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Royal Serbian Brigade"		
+		location = 11586
+		division_template = "Infantry Brigade"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+	#####Neverreallycaredforit#####
+		navy = {				
+		name = "Royal Fleet"			
+		base = 11564
+		location = 11564
+		ship = { name = "HPS Hungarian Pixel" definition = battleship equipment = { battleship_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Hungary" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Royalty" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Iron Heart" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Copper Heart" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Choo Choo" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Crown" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Jewel" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Santa" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Magic" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Kaiser" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = HGP } } }
+	}	
+	navy = {				
+		name = "Royal Submarine Fleet"			
+		base = 11564 
+		location = 11564
+		ship = { name = "HPS Watch" definition = submarine equipment = { submarine_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Your" definition = submarine equipment = { submarine_1 = { amount = 1 owner = HGP } } }
+		ship = { name = "HPS Back" definition = submarine equipment = { submarine_1 = { amount = 1 owner = HGP } } }
+	}	
+}		
+
+air_wings = {
+	###OhlookImhungaryandIhaveplanes
+	154 = {
+		fighter_equipment_0 =  {
+			owner = "HGP" 
+			amount = 56
+		}
+		tac_bomber_equipment_0 =  { owner = "HGP" amount = 20 }
+	}
+}
