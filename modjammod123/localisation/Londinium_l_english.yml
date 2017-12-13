@@ -1,0 +1,42 @@
+﻿l_english:
+
+
+#############################
+# party and other stuff
+#############################
+ LND_market_liberal_party:0 "LP"
+ LND_market_liberal_party_long:0 "Libertarian Party"
+
+##################################
+# Country name
+##################################
+ LND_totalist:0 "Londinia"
+ LND_totalist_ADJ:0 "Londinian"
+ LND_totalist_DEF:0 "Londinia"
+ LND_syndicalist:0 "Londinia"
+ LND_syndicalist_ADJ:0 "Londinian"
+ LND_syndicalist_DEF:0 "Londinia"
+ LND_radical_socialist:0 "Londinia"
+ LND_radical_socialist_ADJ:0 "Londinian"
+ LND_radical_socialist_DEF:0 "Londinia"
+ LND_social_democrat:0 "Londinian Republic"
+ LND_social_democrat_ADJ:0 "Londinian"
+ LND_social_democrat_DEF:0 "Londinian Republic"
+ LND_social_liberal:0 "Londinian Republic"
+ LND_social_liberal_ADJ:0 "Londinian"
+ LND_social_liberal_DEF:0 "Londinian Republic"
+ LND_market_liberal:0 "Londinian Republic"
+ LND_market_liberal_ADJ:0 "Londinian"
+ LND_market_liberal_DEF:0 "Londinian Republic"
+ LND_social_conservative:0 "Londinian Republic"
+ LND_social_conservative_ADJ:0 "Londinian"
+ LND_social_conservative_DEF:0 "Londinian Republic"
+ LND_authoritarian_democrat:0 "Londinian Republic"
+ LND_authoritarian_democrat_ADJ:0 "Londinian"
+ LND_authoritarian_democrat_DEF:0 "Londinian Republic"
+ LND_paternal_autocrat:0 "Londinia"
+ LND_paternal_autocrat_ADJ:0 "Londinian"
+ LND_paternal_autocrat_DEF:0 "Londinia"
+ LND_national_populist:0 "Londinia"
+ LND_national_populist_ADJ:0 "Londinian"
+ LND_national_populist_DEF:0 "Londinia"

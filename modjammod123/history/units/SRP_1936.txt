@@ -1,0 +1,113 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Infantry Division"     ####Serpickliastroops####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+
+	support = {
+        artillery = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+  	name = "Mountain Division" ####thelandhasalotofmountains####
+	regiments = {
+		mountaineers = { x = 0 y = 0 }
+		mountaineers = { x = 0 y = 1 }
+		mountaineers = { x = 0 y = 2 }
+		mountaineers = { x = 1 y = 0 }
+		mountaineers = { x = 1 y = 1 }
+		mountaineers = { x = 1 y = 2 }
+	}
+
+}
+
+####UNITS####
+####After the victory in the first modjam war, the army reduced in size to what it is today####
+
+units = {
+    division= {			
+		name = "1st Coastal Division"		
+		location = 11735
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Coastal Division"		
+		location = 11735
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Austrian Division"		
+		location = 13575
+		division_template = "Mountain Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Austrian Division"		
+		location = 13575
+		division_template = "Mountain Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Austrian Division"		
+		location = 13575
+		division_template = "Mountain Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Swiss Division"		
+		location = 663
+		division_template = "Mountain Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Swiss Division"		
+		location = 663
+		division_template = "Mountain Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Swiss Division"		
+		location = 663
+		division_template = "Mountain Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+	
+	#####WOWTHEYHAVEANAVYWTF#####
+		navy = {				
+		name = "Serpicklian Fleet"			
+		base = 11735 
+		location = 11735
+		ship = { name = "SOSN Serpickle" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SRP } } }
+		ship = { name = "SOSN Victory" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRP } } }
+		ship = { name = "SOSN Glory" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRP } } }
+	}	
+}		
+
+air_wings = {
+	###Serpicklian Airforce, mainly planes given by londinia
+	3 = {
+		fighter_equipment_0 =  {
+			owner = "SRP" 
+			amount = 30
+		}
+		tac_bomber_equipment_0 =  { owner = "SRP" amount = 12 }
+	}
+}

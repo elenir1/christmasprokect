@@ -1,0 +1,172 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Infantry Division"     ####the standar unit of the army####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+	}
+
+	support = {
+        artillery = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+  	name = "Cavalry Division" ####leftovers from the first modjam war####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+	}
+
+}
+
+####UNITS####
+####After the victory in the first modjam war, the army reduced in size to what it is today####
+
+units = {
+    division= {			
+		name = "Knights Of Malta"		
+		location = 12003
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Knights Of Rome"		
+		location = 9904
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Knights Of Sardinia"		
+		location = 11773
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st division of Milan"		
+		location = 6780
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+    }
+    division= {			
+		name = "2nd division of Milan"		
+		location = 6780
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.8
+    }
+    division= {			
+		name = "1st division of Provence"		
+		location = 11834
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.7
+    }
+    division= {			
+		name = "1st division of Rome"		
+		location = 9904
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+    }
+    division= {			
+		name = "2nd division of Rome"		
+		location = 9904
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+    }
+    division= {			
+		name = "3rd division of Rome"		
+		location = 9904
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+    }
+    division= {			
+		name = "1st division of Sardinia"		
+		location = 11773
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.6
+    }
+    division= {			
+		name = "1st division of Venice"		
+		location = 11584
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+    }
+    division= {			
+		name = "2nd division of Venice"		
+		location = 11584
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+    }
+    division= {			
+		name = "1st division of Sicilia"		
+		location = 11584
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.9
+    }
+	
+	#####NAVY YAY#####
+		navy = {				
+		name = "Londinian Fleet"			
+		base = 9909 
+		location = 9909
+		ship = { name = "SOLR Londinium" definition = battleship equipment = { battleship_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Tiny" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Small" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Eagle" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Sicily" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Pompei" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Nice" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Rome" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Savoy" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Milan" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Venice" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Naples" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = LND } } }
+	}
+	navy = {				
+		name = "Submarine Fleet"			
+		base = 9909 
+		location = 9909
+		ship = { name = "SOLR Africa" definition = submarine equipment = { submarine_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Europe" definition = submarine equipment = { submarine_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Oceania" definition = submarine equipment = { submarine_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Asia" definition = submarine equipment = { submarine_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR America" definition = submarine equipment = { submarine_1 = { amount = 1 owner = LND } } }
+		ship = { name = "SOLR Antartica" definition = submarine equipment = { submarine_1 = { amount = 1 owner = LND } } }
+	}	
+}		
+
+air_wings = {
+	###Londinian Airforce
+	159 = {
+		fighter_equipment_0 =  {
+			owner = "LND" 
+			amount = 48
+		}
+		tac_bomber_equipment_0 =  { owner = "LND" amount = 16 }
+	}
+}

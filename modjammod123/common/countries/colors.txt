@@ -1,0 +1,19 @@
+LOL = {
+	color = rgb { 98 23 42 }
+	color_ui = rgb { 255 73 21 }
+}
+
+LND = {
+	color = rgb { 0 112 184 }
+	color_ui = rgb { 0 112 184 }
+}
+
+SRP = {
+	color = rgb { 103 146 103 }
+	color_ui = rgb { 103 146 103 }
+}
+
+FPE = {
+	color = rgb { 237 41 57 }
+	color_ui = rgb { 237 41 57 }
+}

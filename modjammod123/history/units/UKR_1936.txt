@@ -1,0 +1,25 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Infantry Division"     #
+	regiments = {
+		infantry = { x = 0 y = 0 }
+	}
+
+	support = {
+        artillery = { x = 0 y = 0 }
+	}
+}
+
+####UNITS####
+####UNITS####
+
+units = {
+    division= {			
+		name = "memememememmememe"		
+		location = 12003
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+}		

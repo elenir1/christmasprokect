@@ -1,0 +1,42 @@
+﻿l_english:
+
+
+#############################
+# party and other stuff
+#############################
+ FPE_national_populist_party:0 "FUOF"
+ FPE_national_populist_party_long:0 "Flimsyan Union Of Fascists"
+
+##################################
+# Country name
+##################################
+ FPE_totalist:0 "Flimsypikea"
+ FPE_totalist_ADJ:0 "Flimsypikean"
+ FPE_totalist_DEF:0 "Flimsypikea"
+ FPE_syndicalist:0 "Flimsypikea"
+ FPE_syndicalist_ADJ:0 "Flimsypikean"
+ FPE_syndicalist_DEF:0 "Flimsypikea"
+ FPE_radical_socialist:0 "Flimsypikea"
+ FPE_radical_socialist_ADJ:0 "Flimsypikean"
+ FPE_radical_socialist_DEF:0 "Flimsypikea"
+ FPE_social_democrat:0 "Flimsypikean Republic"
+ FPE_social_democrat_ADJ:0 "Flimsypikean"
+ FPE_social_democrat_DEF:0 "Flimsypikean Republic"
+ FPE_social_liberal:0 "Flimsypikean Republic"
+ FPE_social_liberal_ADJ:0 "Flimsypikean"
+ FPE_social_liberal_DEF:0 "Flimsypikean Republic"
+ FPE_market_liberal:0 "Flimsypikean Republic"
+ FPE_market_liberal_ADJ:0 "Flimsypikean"
+ FPE_market_liberal_DEF:0 "Flimsypikean Republic"
+ FPE_social_conservative:0 "Flimsypikean Republic"
+ FPE_social_conservative_ADJ:0 "Flimsypikean"
+ FPE_social_conservative_DEF:0 "Flimsypikean Republic"
+ FPE_authoritarian_democrat:0 "Flimsypikean Empire"
+ FPE_authoritarian_democrat_ADJ:0 "Flimsypikean"
+ FPE_authoritarian_democrat_DEF:0 "Flimsypikean Empire"
+ FPE_paternal_autocrat:0 "Flimsypikean Empire"
+ FPE_paternal_autocrat_ADJ:0 "Flimsypikean"
+ FPE_paternal_autocrat_DEF:0 "Flimsypikean Empire"
+ FPE_national_populist:0 "Flimsypikean Empire"
+ FPE_national_populist_ADJ:0 "Flimsypikean"
+ FPE_national_populist_DEF:0 "Flimsypikean Empire"

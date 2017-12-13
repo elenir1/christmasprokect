@@ -1,0 +1,26 @@
+
+state = {
+	id=736
+	name="STATE_736"
+
+	history={
+		owner = SRP
+		add_core_of = SRP
+
+		buildings = {
+			infrastructure = 6
+			
+						11735 = {
+				naval_base = 3
+			}
+
+		}
+
+	}
+
+	provinces={
+		599 11735 11595
+	}
+	manpower=557500
+	state_category="city"
+}

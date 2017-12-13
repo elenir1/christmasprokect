@@ -1,0 +1,42 @@
+﻿l_english:
+
+
+#############################
+# party and other stuff
+#############################
+ SRP_market_liberal_party:0 "CUS"
+ SRP_market_liberal_party_long:0 "Capitalist Union Of Serpicklia"
+
+##################################
+# Country name
+##################################
+ SRP_totalist:0 "Serpicklia"
+ SRP_totalist_ADJ:0 "Serpicklian"
+ SRP_totalist_DEF:0 "Serpicklia"
+ SRP_syndicalist:0 "Serpicklia"
+ SRP_syndicalist_ADJ:0 "Serpicklian"
+ SRP_syndicalist_DEF:0 "Serpicklia"
+ SRP_radical_socialist:0 "Serpicklia"
+ SRP_radical_socialist_ADJ:0 "Serpicklian"
+ SRP_radical_socialist_DEF:0 "Serpicklia"
+ SRP_social_democrat:0 "Serpicklian Federation"
+ SRP_social_democrat_ADJ:0 "Serpicklian"
+ SRP_social_democrat_DEF:0 "Serpicklian Federation"
+ SRP_social_liberal:0 "Serpicklian Federation"
+ SRP_social_liberal_ADJ:0 "Serpicklian"
+ SRP_social_liberal_DEF:0 "Serpicklian Federation"
+ SRP_market_liberal:0 "Serpicklian Federation"
+ SRP_market_liberal_ADJ:0 "Serpicklian"
+ SRP_market_liberal_DEF:0 "Serpicklian Federation"
+ SRP_social_conservative:0 "Serpicklian Federation"
+ SRP_social_conservative_ADJ:0 "Serpicklian"
+ SRP_social_conservative_DEF:0 "Serpicklian Federation"
+ SRP_authoritarian_democrat:0 "Serpicklian Federation"
+ SRP_authoritarian_democrat_ADJ:0 "Serpicklian"
+ SRP_authoritarian_democrat_DEF:0 "Serpicklian Federation"
+ SRP_paternal_autocrat:0 "Serpicklia"
+ SRP_paternal_autocrat_ADJ:0 "Serpicklian"
+ SRP_paternal_autocrat_DEF:0 "Serpicklia"
+ SRP_national_populist:0 "Serpicklia"
+ SRP_national_populist_ADJ:0 "Serpicklian"
+ SRP_national_populist_DEF:0 "Serpicklia"

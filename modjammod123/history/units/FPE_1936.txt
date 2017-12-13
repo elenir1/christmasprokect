@@ -1,0 +1,285 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Infantry Division"     ####Britishunitsorsomething####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+
+	support = {
+	    engineer = { x = 0 y = 0 }
+        artillery = { x = 0 y = 1 }
+	}
+}
+
+division_template = {
+  	name = "Cavalry Division" ####Didntweusethisinthegreatwar####
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 0 y = 2 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+	}
+
+}
+
+division_template = {
+	name = "Tank Brigade" ####Whatwonusthewar####
+
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+		light_armor = { x = 0 y = 2 }
+	}
+}
+
+####UNITS####
+####After the modjam war, the army of flimsypike has remainedlargelythesame, atleast they are supplied####
+
+units = {
+    division= {			
+		name = "1st Southern Divisions"		
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Cavalry Division"		
+		location = 6103
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Cavalry Division"		
+		location = 6103
+		division_template = "Cavalry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Southern Division"		
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st English Division"		
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd English Division"		
+		location = 6103
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Tank Division"		
+		location = 6103
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Scottish Division"		
+		location = 3273
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Scottish Division"		
+		location = 3273
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Scottish Division"		
+		location = 3273
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Scottish Tank Brigade"		
+		location = 3273
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Irish Tank Brigade"		
+		location = 11293
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Irish Division"		
+		location = 11293
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Norman Division"		
+		location = 11535
+		division_template = "Infantry Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Norman Division"		
+		location = 11535
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Norman Division"		
+		location = 11535
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Norman Division"		
+		location = 11535
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Norman Tank Brigade"		
+		location = 11535
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Norman Tank Brigade"		
+		location = 11535
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Aquitaine Tank Brigade"		
+		location = 9737
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Aquitaine Division"		
+		location = 9737
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Aquitaine Division"		
+		location = 9737
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Aquitaine Division"		
+		location = 9737
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+	#####theleftovers#####
+		navy = {				
+		name = "Pikean Fleet"			
+		base = 11374
+		location = 11374
+		ship = { name = "FS Flimsypike" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Mosley" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Titan" definition = battleship equipment = { battleship_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Big" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Titanic" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Giant" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Mediocre" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Rogue" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Oswald" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Meme" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Pirate" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Funboat" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Boaty Mcboatface" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Island" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Triumph" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Stump" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Tea" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Sugar Cube" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Midnight" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Dictator" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS President" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Coder" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Toaster" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = FPE } } }
+	}	
+	navy = {				
+		name = "Pikean Submarine Group"			
+		base = 11374 
+		location = 11374
+		ship = { name = "FS Stealthy" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Secret" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Hidden" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Silent" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Shadow" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Spy" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Covered" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Atlantis" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FPE } } }
+		ship = { name = "FS Mariana" definition = submarine equipment = { submarine_1 = { amount = 1 owner = FPE } } }
+	}	
+}		
+
+air_wings = {
+	###Yay, we discovered planes, and we are going to bomb the shit out of them
+	126 = {
+		fighter_equipment_0 =  {
+			owner = "FPE" 
+			amount = 80
+		}
+		tac_bomber_equipment_0 =  { owner = "FPE" amount = 40 }
+	}
+	130 = {
+		fighter_equipment_0 =  {
+			owner = "FPE" 
+			amount = 55
+		}
+		tac_bomber_equipment_0 =  { owner = "FPE" amount = 33 }
+	}
+	15 = {
+		fighter_equipment_0 =  {
+			owner = "FPE" 
+			amount = 27
+		}
+		tac_bomber_equipment_0 =  { owner = "FPE" amount = 67 }
+	}
+	19 = {
+		fighter_equipment_0 =  {
+			owner = "FPE" 
+			amount = 35
+		}
+		tac_bomber_equipment_0 =  { owner = "FPE" amount = 23 }
+	}
+}
