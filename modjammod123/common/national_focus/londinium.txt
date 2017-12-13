@@ -1,0 +1,28 @@
+focus_tree = {
+	id = londinium_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = LND
+		}
+	}
+	
+	default = no
+	
+	focus = {
+		id = LND_external_politics
+		icon = GFX_goal_generic_political_pressure
+		x = 0
+		y = 4
+		cost = 5
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_political_power = 50
+		}
+	}
+	
+}

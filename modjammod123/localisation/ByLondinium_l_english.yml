@@ -1,3 +1,7 @@
 ﻿l_english:
  
  #I'll just put all my localisation in here
+ #Focus Stuff
+ londinium_focus:0 "Londinian Focus Tree"
+ LND_external_politics:0 "External Politics"
+ LND_external_politics_desc:0 "We must use our might to exert influence on the countries around us, so they may act to our advantage."
