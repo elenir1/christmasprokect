@@ -1,0 +1,349 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Infantry Division"     ####Boringdudesinfoot####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+
+	support = {
+        artillery = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Tank Division" ####Thefutureof warfare####
+
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+        light_armor = { x = 1 y = 0 }
+		light_armor = { x = 1 y = 1 }
+		motorized = { x = 2 y = 0 }
+        motorized = { x = 2 y = 1 }
+        motorized = { x = 2 y = 2 }
+	}
+}
+
+####UNITS####
+####REBUILDINGFORREVENGE####
+
+units = {
+    division= {			
+		name = "1st Northern Divisions"		
+		location = 11506
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Northern Divisions"		
+		location = 11506
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Northern Divisions"		
+		location = 11506
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Northern Divisions"		
+		location = 11506
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "5th Northern Divisions"		
+		location = 11506
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "6th Northern Divisions"		
+		location = 11506
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Northern Tank Division"		
+		location = 11506
+		division_template = "Tank Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Northern Tank Division"		
+		location = 11506
+		division_template = "Tank Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Northern Tank Division"		
+		location = 11506
+		division_template = "Tank Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Southern Divisions"		
+		location = 6766
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Southern Divisions"		
+		location = 6766
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Southern Divisions"		
+		location = 6766
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Southern Divisions"		
+		location = 6766
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "5th Southern Divisions"		
+		location = 6766
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "6th Southern Divisions"		
+		location = 6766
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "7th Southern Divisions"		
+		location = 6766
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "8th Southern Divisions"		
+		location = 6766
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "9th Southern Divisions"		
+		location = 6766
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Southern Tank Division"		
+		location = 6766
+		division_template = "Tank Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Southern Tank Division"		
+		location = 6766
+		division_template = "Tank Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Southern Tank Division"		
+		location = 6766
+		division_template = "Tank Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Southern Tank Division"		
+		location = 6766
+		division_template = "Tank Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "5th Southern Tank Division"		
+		location = 6613
+		division_template = "Tank Division"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "10th Southern Divisions"		
+		location = 6613
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "11th Southern Divisions"		
+		location = 6613
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "12th Southern Divisions"		
+		location = 6613
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "13th Southern Divisions"		
+		location = 6613
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "14th Southern Divisions"		
+		location = 6613
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "15th Southern Divisions"		
+		location = 6613
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "16th Southern Divisions"		
+		location = 6613
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "17th Southern Divisions"		
+		location = 6613
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "18th Southern Divisions"		
+		location = 6613
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "19th Southern Divisions"		
+		location = 6613
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+	#####Bignavy#####
+		navy = {				
+		name = "Kebbian Northern Fleet"			
+		base = 3552
+		location = 3552
+		ship = { name = "KS Kebb" definition = battleship equipment = { battleship_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Colour" definition = battleship equipment = { battleship_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Sandwhich" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Bread" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Baguette" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Surrender" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS White Flag" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Goat" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Red" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS White Mcboatface" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Blue" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Trump" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Conservative" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Autism" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Jojo" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Reference" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Republic" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+	}
+		navy = {				
+		name = "Kebbian Southern Fleet"			
+		base = 11877
+		location = 11877
+		ship = { name = "KS Victory" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Revenge" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Dominator" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Shield" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Sword" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Colorized" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Oldie" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS But" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Goodie" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "KS Unnamed" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KEB } } }
+	}	
+	navy = {				
+		name = "Kebbian Submarines"			
+		base = 3552 
+		location = 3552
+		ship = { name = "FS Sea" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "FS Navy" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "FS Raider" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "FS Looter" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "FS Shooter" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "FS Torpedo" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "FS Codename" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "FS Hidden Baguette" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "FS Hidden Bread" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KEB } } }
+		ship = { name = "FS Ham" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KEB } } }
+	}	
+}		
+
+air_wings = {
+	###wehaveanairforcewow
+	22 = {
+		fighter_equipment_0 =  {
+			owner = "KEB" 
+			amount = 100
+		}
+		tac_bomber_equipment_0 =  { owner = "KEB" amount = 56 }
+	}
+	16 = {
+		fighter_equipment_0 =  {
+			owner = "KEB" 
+			amount = 120
+		}
+		tac_bomber_equipment_0 =  { owner = "FPE" amount = 67 }
+	}
+	31 = {
+		fighter_equipment_0 =  {
+			owner = "KEB" 
+			amount = 76
+		}
+		tac_bomber_equipment_0 =  { owner = "FPE" amount = 34 }
+	}
+}

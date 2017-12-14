@@ -10,9 +10,8 @@ state = {
 	}
 
 	history={
-		owner = TAG
-		add_claim_by = TAG
-		add_core_of = TAG
+		owner = KEB
+		add_core_of = KEB
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 3

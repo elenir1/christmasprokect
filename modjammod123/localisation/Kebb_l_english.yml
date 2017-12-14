@@ -1,0 +1,42 @@
+﻿l_english:
+
+
+#############################
+# party and other stuff
+#############################
+ KEB_social_conservative_party:0 "KP"
+ KEB_social_conservative_party_long:0 "Kebbian Party"
+
+##################################
+# Country name
+##################################
+ KEB_totalist:0 "Kebbiana"
+ KEB_totalist_ADJ:0 "Kebbianan"
+ KEB_totalist_DEF:0 "Kebbiana"
+ KEB_syndicalist:0 "Kebbiana"
+ KEB_syndicalist_ADJ:0 "Kebbianan"
+ KEB_syndicalist_DEF:0 "Kebbiana"
+ KEB_radical_socialist:0 "Kebbiana"
+ KEB_radical_socialist_ADJ:0 "Kebbianan"
+ KEB_radical_socialist_DEF:0 "Kebbiana"
+ KEB_social_democrat:0 "Kebban Republic"
+ KEB_social_democrat_ADJ:0 "Kebbanan"
+ KEB_social_democrat_DEF:0 "Kebban Republic"
+ KEB_social_liberal:0 "Kebban Republic"
+ KEB_social_liberal_ADJ:0 "Kebbanan"
+ KEB_social_liberal_DEF:0 "Kebban Republic"
+ KEB_market_liberal:0 "Kebban Republic"
+ KEB_market_liberal_ADJ:0 "Kebbanan"
+ KEB_market_liberal_DEF:0 "Kebban Republic"
+ KEB_social_conservative:0 "Kebban Republic"
+ KEB_social_conservative_ADJ:0 "Kebbanan"
+ KEB_social_conservative_DEF:0 "Kebban Republic"
+ KEB_authoritarian_democrat:0 "Kebban Empire"
+ KEB_authoritarian_democrat_ADJ:0 "Kebbanan"
+ KEB_authoritarian_democrat_DEF:0 "Kebban Empire"
+ KEB_paternal_autocrat:0 "Kebban Empire"
+ KEB_paternal_autocrat_ADJ:0 "Kebban"
+ KEB_paternal_autocrat_DEF:0 "Kebban Empire"
+ KEB_national_populist:0 "Kebban Empire"
+ KEB_national_populist_ADJ:0 "Kebban"
+ KEB_national_populist_DEF:0 "Kebban Empire"

@@ -13,9 +13,8 @@ state = {
 	}
 
 	history={
-		owner = TAG
-		add_claim_by = TAG
-		add_core_of = TAG
+		owner = KEB
+		add_core_of = KEB
 		 
 		victory_points = {
 			9898 1
@@ -24,6 +23,9 @@ state = {
 			infrastructure = 6
 			industrial_complex = 2
 			air_base = 2
+						11877 = {
+				naval_base = 4
+			}
 		}
 		
 	}

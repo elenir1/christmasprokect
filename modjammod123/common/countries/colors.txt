@@ -22,3 +22,8 @@ HGP = {
 	color = rgb { 251 206 177 }
 	color_ui = rgb { 251 206 177 }
 }
+
+KEB = {
+	color = rgb { 83 98 103 }
+	color_ui = rgb { 83 98 103 }
+}

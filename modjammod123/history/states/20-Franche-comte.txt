@@ -11,9 +11,8 @@ state = {
 	state_category = large_city
 
 	history={
-		owner = TAG
-		add_claim_by = TAG
-		add_core_of = TAG
+		owner = KEB
+		add_core_of = KEB
 
 		victory_points = {
 			6613 10
