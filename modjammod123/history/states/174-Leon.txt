@@ -4,7 +4,8 @@ state = {
 	name="STATE_174"
 
 	history={
-		owner = TAG
+		owner = ELR
+		add_core_of = ELR
 		victory_points = { 11707 1 }
 		victory_points = { 3920 2 } #Leon
 		victory_points = { 6907 1 } #Salamanca
@@ -14,7 +15,6 @@ state = {
 			industrial_complex = 1
 
 		}
-		add_core_of = TAG
 
 	}
 

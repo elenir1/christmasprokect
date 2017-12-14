@@ -27,3 +27,8 @@ KEB = {
 	color = rgb { 83 98 103 }
 	color_ui = rgb { 83 98 103 }
 }
+
+ELR = {
+	color = rgb { 250 218 94 }
+	color_ui = rgb { 250 218 94 }
+}

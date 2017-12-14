@@ -1,0 +1,42 @@
+﻿l_english:
+
+
+#############################
+# party and other stuff
+#############################
+ ELR_authoritarian_democrat_party:0 "Realistas"
+ ELR_authoritarian_democrat_party_long:0 "Realistas"
+
+##################################
+# Country name
+##################################
+ ELR_totalist:0 "Eleniria"
+ ELR_totalist_ADJ:0 "Elenirian"
+ ELR_totalist_DEF:0 "Eleniria"
+ ELR_syndicalist:0 "Eleniria"
+ ELR_syndicalist_ADJ:0 "Elenirian"
+ ELR_syndicalist_DEF:0 "Eleniria"
+ ELR_radical_socialist:0 "Eleniria"
+ ELR_radical_socialist_ADJ:0 "Elenirian"
+ ELR_radical_socialist_DEF:0 "Eleniria"
+ ELR_social_democrat:0 "Elenirian Republic"
+ ELR_social_democrat_ADJ:0 "Elenirian"
+ ELR_social_democrat_DEF:0 "Elenirian Republic"
+ ELR_social_liberal:0 "Elenirian Republic"
+ ELR_social_liberal_ADJ:0 "Elenirian"
+ ELR_social_liberal_DEF:0 "Elenirian Republic"
+ ELR_market_liberal:0 "Elenirian Republic"
+ ELR_market_liberal_ADJ:0 "Elenirian"
+ ELR_market_liberal_DEF:0 "Elenirian Republic"
+ ELR_social_conservative:0 "Elenirian Republic"
+ ELR_social_conservative_ADJ:0 "Elenirian"
+ ELR_social_conservative_DEF:0 "Elenirian Republic"
+ ELR_authoritarian_democrat:0 "Crown Of Elenir I"
+ ELR_authoritarian_democrat_ADJ:0 "The Crown Of Elenir I"
+ ELR_authoritarian_democrat_DEF:0 "Crown Of Elenir I"
+ ELR_paternal_autocrat:0 "Elenirian Empire"
+ ELR_paternal_autocrat_ADJ:0 "Elenirian"
+ ELR_paternal_autocrat_DEF:0 "Elenirian Empire"
+ ELR_national_populist:0 "Elenirian Empire"
+ ELR_national_populist_ADJ:0 "Elenirian"
+ ELR_national_populist_DEF:0 "Elenirian Empire"

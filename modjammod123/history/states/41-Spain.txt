@@ -11,7 +11,8 @@ state = {
 	}
 
 	history={
-		owner = TAG
+		owner = ELR
+		add_core_of = ELR
 		victory_points = { 3938 20 } #Madrid
 		victory_points = { 3986 1 } #Toledo
 		buildings = {
@@ -20,7 +21,6 @@ state = {
 			industrial_complex = 2
 			air_base = 6
 		}
-		add_core_of = TAG
 	}
 
 	provinces={

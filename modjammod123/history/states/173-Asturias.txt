@@ -11,7 +11,8 @@ state = {
 	}
 
 	history={
-		owner = TAG
+		owner = ELR
+		add_core_of = ELR
 		victory_points = { 9979 1 }
 		victory_points = { 747 1 } #Almeira
 		buildings = {
@@ -25,7 +26,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = TAG
 	}
 
 	provinces={

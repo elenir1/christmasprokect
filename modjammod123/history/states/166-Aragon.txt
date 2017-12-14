@@ -12,7 +12,8 @@ state = {
 	}
 
 	history={
-		owner = TAG
+		owner = ELR
+		add_core_of = ELR
 		victory_points = {
 			3816 5
 		}
@@ -21,7 +22,6 @@ state = {
 			industrial_complex = 1
 			air_base = 3
 		}
-		add_core_of = TAG
 	}
 
 	provinces={

@@ -1,0 +1,188 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "División De Infanteria"     ####Wowqueimpresionante####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+
+	support = {
+        artillery = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+  	name = "División De Montaña" ####Yaymontañeros####
+	regiments = {
+		mountaineers = { x = 0 y = 0 }
+		mountaineers = { x = 0 y = 1 }
+		mountaineers = { x = 0 y = 2 }
+		mountaineers = { x = 1 y = 0 }
+		mountaineers = { x = 1 y = 1 }
+		mountaineers = { x = 1 y = 2 }
+	}
+
+}
+
+####UNITS####
+####arrivaeleniria####
+
+units = {
+    division= {			
+		name = "Primera División Catalana"		
+		location = 9764
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Segunda División Catalana"		
+		location = 9764
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Tercera División Catalana"		
+		location = 9764
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Cuarta División Catalana"		
+		location = 9764
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Quinta División Catalana"		
+		location = 9764
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Primer Regimento Montañero"		
+		location = 9764
+		division_template = "División De Montaña"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Segundo Regimento Montañero"		
+		location = 9764
+		division_template = "División De Montaña"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Primer Regimento Real"		
+		location = 3938
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Segundo Regimento Real"		
+		location = 3938
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Tercer Regimento Real"		
+		location = 3938
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Cuarto Regimento Real"		
+		location = 3938
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "División De Corsica"		
+		location = 9851
+		division_template = "División De Montaña"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "División De Canarios"		
+		location = 13071
+		division_template = "División De Montaña"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "División De Balearas"		
+		location = 9793
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "Segunda División De Balearas"		
+		location = 7114
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "División De Madeira"		
+		location = 3118
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "División De Azores"		
+		location = 1751
+		division_template = "División De Infanteria"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+	
+	#####menavy#####
+		navy = {				
+		name = "Flota Real"			
+		base = 9764 
+		location = 9764
+		ship = { name = "NDSM Elenir1" definition = battleship equipment = { battleship_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Grande" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM E" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Libre" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM España" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Catalonia" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Independencia" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Franco" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Sandwhich" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Jamon" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Queso" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Bote" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Gloria" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Morado" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ELR } } }
+		ship = { name = "NDSM Wea" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ELR } } }
+	}	
+}		
+
+air_wings = {
+	###weonlyreallyhavetobombardpeopleinthenorth
+	165 = {
+		fighter_equipment_0 =  {
+			owner = "ELR" 
+			amount = 100
+		}
+		tac_bomber_equipment_0 =  { owner = "ELR" amount = 46 }
+	}
+}
