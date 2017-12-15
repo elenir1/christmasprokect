@@ -7,7 +7,8 @@ state =
 	state_category = rural
 	history=
 	{
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 		victory_points = {
 			9940 1
 		}
@@ -22,7 +23,6 @@ state =
 				naval_base = 3
 			}
 		}
-		add_core_of = TAG
 	}
 	provinces=
 	{

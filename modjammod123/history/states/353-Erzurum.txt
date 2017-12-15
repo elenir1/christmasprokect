@@ -6,7 +6,8 @@ state = {
 	state_category = town
 
 	history={
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 		buildings = {
 			infrastructure = 3
 			air_base = 1
@@ -15,7 +16,6 @@ state = {
 		victory_points = {
 			11853 5
 		}
-		add_core_of = TAG
 		 
 	}
 

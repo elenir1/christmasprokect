@@ -11,7 +11,8 @@ state = {
 	}
 
 	history={
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 		buildings = {
 			infrastructure = 4
 			8435 = {
@@ -24,7 +25,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = TAG
 		 
 	}
 

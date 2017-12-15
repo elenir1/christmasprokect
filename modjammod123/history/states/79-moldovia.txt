@@ -8,7 +8,8 @@ state =
 	
 	history=
 	{
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -17,7 +18,6 @@ state =
 		}
 		victory_points = { 9716 3 }
 		victory_points = { 6706 1 }
-		add_core_of = TAG
 	}
 	provinces=
 	{

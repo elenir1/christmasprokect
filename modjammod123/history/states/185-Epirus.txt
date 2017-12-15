@@ -8,7 +8,8 @@ state = {
 	}
 
 	history={
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 		buildings = {
 			infrastructure = 4
 			air_base = 3
@@ -19,7 +20,6 @@ state = {
 			}
 
 		}
-		add_core_of = TAG
 
 	}
 

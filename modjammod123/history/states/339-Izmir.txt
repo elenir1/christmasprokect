@@ -10,7 +10,8 @@ state = {
 	state_category = city
 
 	history={
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 		
 		victory_points = {
 			4112 10
@@ -23,7 +24,6 @@ state = {
 				naval_base = 4
 			}
 		}
-		add_core_of = TAG
 	}
 
 	provinces={

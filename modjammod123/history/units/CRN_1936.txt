@@ -1,0 +1,275 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Crusno Division"     ####Spamthistowin####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+}
+
+####UNITS####
+####Shittonofinneficientandbadtroops####
+
+units = {
+    division= {			
+		name = "1st Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "5th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "6th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "7th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "8th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "9th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "10th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "11th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "12th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "13th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "14th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "15th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "16th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "17th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "18th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "19th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "20th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "21th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "22th Crusno Division"		
+		location = 9833
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "23th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "24th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "25th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "26th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "27th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "28th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "29th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "30th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "31th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "32th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "33th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "34th Crusno Division"		
+		location = 6706
+		division_template = "Crusno Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+	
+	#####Crusnocantreallyfigureouthowtonavy#####
+		navy = {				
+		name = "Lonesome Cruiser"			
+		base = 9833 
+		location = 9833
+		ship = { name = "COS Crusno I" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = CRN } } }
+	}	
+}		
+
+air_wings = {
+	###gettingintotheairiscomplexcrusnocantdoit
+	341 = {
+		fighter_equipment_0 =  {
+			owner = "CRN" 
+			amount = 6
+		}
+	}
+}

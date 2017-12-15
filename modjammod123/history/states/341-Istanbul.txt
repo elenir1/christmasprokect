@@ -10,7 +10,8 @@ state = {
 	state_category = city
 
 	history= {
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 
 		buildings = {
 			infrastructure = 5
@@ -23,7 +24,6 @@ state = {
 		victory_points = {
 			3893 5
 		}
-		add_core_of = TAG
 	}
 	provinces= { 849 922 3879 3893 6895 11842 13633 }
 }

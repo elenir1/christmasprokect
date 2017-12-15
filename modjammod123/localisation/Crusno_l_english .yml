@@ -1,0 +1,42 @@
+﻿l_english:
+
+
+#############################
+# party and other stuff
+#############################
+ CRN_radical_socialist_party:0 "Warlord Council"
+ CRN_radical_socialist_party_long:0 "Warlord Council"
+
+##################################
+# Country name
+##################################
+ CRN_totalist:0 "Crusno Horde"
+ CRN_totalist_ADJ:0 "Crusno Horde"
+ CRN_totalist_DEF:0 "Crusno Horde"
+ CRN_syndicalist:0 "Crusno Horde"
+ CRN_syndicalist_ADJ:0 "Crusno Horde"
+ CRN_syndicalist_DEF:0 "Crusno Horde"
+ CRN_radical_socialist:0 "Crusno Horde"
+ CRN_radical_socialist_ADJ:0 "The Crusno Horde"
+ CRN_radical_socialist_DEF:0 "Crusno Horde"
+ CRN_social_democrat:0 "Crusno Horde"
+ CRN_social_democrat_ADJ:0 "Crusno Horde"
+ CRN_social_democrat_DEF:0 "Crusno Horde
+ CRN_social_liberal:0 "Crusno Horde"
+ CRN_social_liberal_ADJ:0 "Crusno Horde"
+ CRN_social_liberal_DEF:0 "Crusno Horde"
+ CRN_market_liberal:0 "Crusno Horde"
+ CRN_market_liberal_ADJ:0 "Crusno Horde"
+ CRN_market_liberal_DEF:0 "Crusno Horde"
+ CRN_social_conservative:0 "Crusno Horde"
+ CRN_social_conservative_ADJ:0 "Crusno Horde"
+ CRN_social_conservative_DEF:0 "Crusno Horde"
+ CRN_authoritarian_democrat:0 "Crusno Horde"
+ CRN_authoritarian_democrat_ADJ:0 "Crusno Horde"
+ CRN_authoritarian_democrat_DEF:0 "Crusno Horde"
+ CRN_paternal_autocrat:0 "Crusno Empire"
+ CRN_paternal_autocrat_ADJ:0 "Crusno Horde"
+ CRN_paternal_autocrat_DEF:0 "Crusno Empire"
+ CRN_national_populist:0 "Crusno Empire"
+ CRN_national_populist_ADJ:0 "Crusno Horde"
+ CRN_national_populist_DEF:0 "Crusno Empire"

@@ -7,12 +7,11 @@ state = {
 
 	history=
 	{
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = TAG
-		add_claim_by = TAG
 	}
 	provinces={
 		577 9548 11689 6761

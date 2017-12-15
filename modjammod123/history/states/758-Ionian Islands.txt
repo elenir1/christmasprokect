@@ -4,7 +4,8 @@ state = {
 	name="STATE_758"
 
 	history={
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 		
 		buildings = {
 			infrastructure = 4
@@ -12,7 +13,6 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = TAG
 	}
 
 	provinces={

@@ -9,7 +9,8 @@ state = {
 	state_category = town
 
 	history={
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 		victory_points = {
 			1005 3
 		}
@@ -22,7 +23,6 @@ state = {
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = TAG
 	}
 
 	provinces={

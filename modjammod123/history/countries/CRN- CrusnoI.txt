@@ -1,0 +1,43 @@
+﻿capital = 130
+
+oob = "CRN_1936"
+
+set_research_slots = 2
+
+set_national_unity = 0.50
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	early_fighter = 1
+	early_destroyer = 1
+	trench_warfare = 1
+	transport = 1
+}
+
+set_convoys = 30
+
+set_politics = {
+
+	parties = {
+		radical_socialist = { 
+			popularity = 100
+		}
+	}
+	
+	ruling_party = radical_socialist
+	last_election = "1934.2.3"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Crusno I"
+	desc = ""
+	picture = "Portrait_theforbiddenone.dds"
+	ideology = radical_socialist_subtype
+	traits = {
+		#
+	}
+}

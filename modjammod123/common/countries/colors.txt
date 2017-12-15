@@ -32,3 +32,8 @@ ELR = {
 	color = rgb { 250 218 94 }
 	color_ui = rgb { 250 218 94 }
 }
+
+CRN = {
+	color = rgb { 208 240 192 }
+	color_ui = rgb { 208 240 192 }
+}
