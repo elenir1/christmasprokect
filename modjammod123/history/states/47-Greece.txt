@@ -12,7 +12,8 @@ state = {
 	state_category = city
 
 	history={
-		owner = TAG
+		owner = CRN
+		add_core_of = CRN
 		victory_points = {
 			4109 25
 		}
@@ -44,7 +45,6 @@ state = {
 			}
 
 		}
-		add_core_of = TAG
 
 	}
 
