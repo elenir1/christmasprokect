@@ -1,0 +1,272 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Infantry Division"     ####Yainfantry####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+
+	support = {
+	    engineer = { x = 0 y = 0 }
+        artillery = { x = 0 y = 1 }
+	}
+}
+
+division_template = {
+	name = "Tank Brigade" ####zetankbrigades####
+
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+		light_armor = { x = 0 y = 2 }
+		light_armor = { x = 0 y = 3 }
+	}
+}
+
+####UNITS####
+####ALWAYSREADYTOFIGHTAGAINSTHEOTHERMODS####
+
+units = {
+    division= {			
+		name = "1st Division"		
+		location = 587
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Division"		
+		location = 587
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Division"		
+		location = 587
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Division"		
+		location = 587
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "5th Division"		
+		location = 587
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "6th Division"		
+		location = 587
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "7th Division"		
+		location = 587
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "8th Division"		
+		location = 587
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "9th Division"		
+		location = 587
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Tank Brigade"		
+		location = 587
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Tank Brigade"		
+		location = 587
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Tank Brigade"		
+		location = 587
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "10th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "11th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "12th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "13th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "14th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "15th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "16th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "17th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "18th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "19th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "20th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "21th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "22th Division"		
+		location = 6377
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Tank Brigade"		
+		location = 6377
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+	
+
+	#####theleftovers#####
+		navy = {				
+		name = "Killer Fleet"			
+		base = 3314
+		location = 3314
+		ship = { name = "KS Killeritch" definition = battleship equipment = { battleship_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Big Guy" definition = battleship equipment = { battleship_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Sinkable" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Penguin" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS God" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Human" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Chocolate" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Belgian" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Lives" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Matter" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Luxembourg" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Benelux" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Kaiser" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Reich" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Washing" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Machine" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = KRL } } }
+	}	
+	navy = {				
+		name = "Killer Submarines"			
+		base = 3314 
+		location = 3314
+		ship = { name = "KS Killer" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Whale" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Clown" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Fish" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KRL } } }
+		ship = { name = "KS Movie" definition = submarine equipment = { submarine_1 = { amount = 1 owner = KRL } } }
+	}	
+}		
+
+air_wings = {
+	###Yay, we discovered planes, and we are going to bomb the shit out of them
+	7 = {
+		fighter_equipment_0 =  {
+			owner = "KRL" 
+			amount = 98
+		}
+		tac_bomber_equipment_0 =  { owner = "FPE" amount = 64 }
+	}
+	50 = {
+		fighter_equipment_0 =  {
+			owner = "KRL" 
+			amount = 84
+		}
+		tac_bomber_equipment_0 =  { owner = "FPE" amount = 46 }
+	}
+}

@@ -1,0 +1,42 @@
+﻿l_english:
+
+
+#############################
+# party and other stuff
+#############################
+ KRL_social_conservative_party:0 "Federalist Party"
+ KRL_social_conservative_party_long:0 "Federalist Party"
+
+##################################
+# Country name
+##################################
+ KRL_totalist:0 "Killerland"
+ KRL_totalist_ADJ:0 "Killerlandian"
+ KRL_totalist_DEF:0 "Killerland"
+ KRL_syndicalist:0 "Killerland"
+ KRL_syndicalist_ADJ:0 "Killerlandian"
+ KRL_syndicalist_DEF:0 "Killerland"
+ KRL_radical_socialist:0 "Killerland"
+ KRL_radical_socialist_ADJ:0 "Killerlandian"
+ KRL_radical_socialist_DEF:0 "Killerland"
+ KRL_social_democrat:0 "Killerlandian Republic"
+ KRL_social_democrat_ADJ:0 "Killerlandian"
+ KRL_social_democrat_DEF:0 "Killerlandian Republic"
+ KRL_social_liberal:0 "Killerlandian Republic"
+ KRL_social_liberal_ADJ:0 "Killerlandian"
+ KRL_social_liberal_DEF:0 "Killerlandian Republic"
+ KRL_market_liberal:0 "Killerlandian Republic"
+ KRL_market_liberal_ADJ:0 "Killerlandian"
+ KRL_market_liberal_DEF:0 "Killerlandian Republic"
+ KRL_social_conservative:0 "Killeritch Federation"
+ KRL_social_conservative_ADJ:0 "Killeritchian"
+ KRL_social_conservative_DEF:0 "Killeritch Federation"
+ KRL_authoritarian_democrat:0 "Killerland"
+ KRL_authoritarian_democrat_ADJ:0 "Killerlandian"
+ KRL_authoritarian_democrat_DEF:0 "Killerland"
+ KRL_paternal_autocrat:0 "Killerlandian Empire"
+ KRL_paternal_autocrat_ADJ:0 "Killerlandian"
+ KRL_paternal_autocrat_DEF:0 "Killerlandian Empire"
+ KRL_national_populist:0 "Killerlandian Empire"
+ KRL_national_populist_ADJ:0 "Killerlandian"
+ KRL_national_populist_DEF:0 "Killerlandian Empire"
