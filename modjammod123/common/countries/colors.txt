@@ -42,3 +42,8 @@ KRL = {
 	color = rgb { 144 0 32 }
 	color_ui = rgb { 144 0 32 }
 }
+
+MTP = {
+	color = rgb { 228 77 48 }
+	color_ui = rgb { 228 77 48 }
+}

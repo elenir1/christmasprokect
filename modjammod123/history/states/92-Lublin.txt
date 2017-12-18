@@ -4,7 +4,8 @@ state = {
 	name="STATE_92"
 
 	history={
-		owner = TAG
+		owner = MTP
+		add_core_of = MTP
 		victory_points = {
 			3559 1.0 
 		}
@@ -14,7 +15,6 @@ state = {
 			air_base = 1
 
 		}
-		add_core_of = TAG
 
 	}
 

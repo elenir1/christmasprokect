@@ -1,0 +1,252 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Infantry Division"     ####Reallymoreofthis####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+
+	support = {
+	    engineer = { x = 0 y = 0 }
+        artillery = { x = 0 y = 1 }
+	}
+}
+
+division_template = {
+	name = "Tank Brigade" ####Uptownfunkyouup########
+
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+		light_armor = { x = 0 y = 2 }
+		light_armor = { x = 0 y = 3 }
+		light_armor = { x = 0 y = 4 }
+	}
+}
+
+####UNITS####
+####Readytokillkiller####
+
+units = {
+    division= {			
+		name = "1st Division"		
+		location = 6521
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Division"		
+		location = 6521
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Division"		
+		location = 6521
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Division"		
+		location = 6521
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "5th Division"		
+		location = 6521
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "6th Division"		
+		location = 6521
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "7th Division"		
+		location = 6521
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "8th Division"		
+		location = 6521
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "9th Division"		
+		location = 6521
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Tank Brigade"		
+		location = 6521
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Tank Brigade"		
+		location = 6521
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+
+    division= {			
+		name = "3rd Tank Brigade"		
+		location = 6521
+		division_template = "Tank Brigade"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "10th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "11th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "12th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "13th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "14th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "15th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "16th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "17th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "18th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "19th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "20th Division"		
+		location = 3544
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+
+
+
+	#####Readytosailandkill#####
+		navy = {				
+		name = "Miah's Fleet"			
+		base = 321
+		location = 321
+		ship = { name = "MS Miah" definition = battleship equipment = { battleship_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Jewish" definition = battleship equipment = { battleship_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Political" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Correct" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Democracy" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Opinion" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Giant" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Venus" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Mars" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Black" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Face" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Asian" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Federation" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Minority" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Mod" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Watcher" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MTP } } }
+	}	
+	navy = {				
+		name = "Pikean Submarine Group"			
+		base = 11374 
+		location = 11374
+		ship = { name = "MS Back" definition = submarine equipment = { submarine_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Head" definition = submarine equipment = { submarine_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Bullet" definition = submarine equipment = { submarine_1 = { amount = 1 owner = MTP } } }
+		ship = { name = "MS Silencer" definition = submarine equipment = { submarine_1 = { amount = 1 owner = MTP } } }
+	}	
+}		
+
+air_wings = {
+	9 = {
+		fighter_equipment_0 =  {
+			owner = "MTP" 
+			amount = 89
+		}
+		tac_bomber_equipment_0 =  { owner = "FPE" amount = 54 }
+	}
+	64 = {
+		fighter_equipment_0 =  {
+			owner = "MTP" 
+			amount = 63
+		}
+		tac_bomber_equipment_0 =  { owner = "FPE" amount = 43 }
+	}
+}

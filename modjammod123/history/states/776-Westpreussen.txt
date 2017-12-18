@@ -5,8 +5,8 @@ state = {
 	
 	state_category = city
 	history={
-		owner = TAG
-		add_core_of = TAG
+		owner = MTP
+		add_core_of = MTP
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1

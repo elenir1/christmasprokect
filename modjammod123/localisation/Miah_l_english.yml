@@ -1,0 +1,42 @@
+﻿l_english:
+
+
+#############################
+# party and other stuff
+#############################
+ MTP_social_liberal_party:0 "Miah's Party"
+ MTP_social_liberal_party_long:0 "Miah's Party"
+
+##################################
+# Country name
+##################################
+ MTP_totalist:0 "Miah"
+ MTP_totalist_ADJ:0 "Mian"
+ MTP_totalist_DEF:0 "Miah"
+ MTP_syndicalist:0 "Miah"
+ MTP_syndicalist_ADJ:0 "Miahn"
+ MTP_syndicalist_DEF:0 "Miah"
+ MTP_radical_socialist:0 "Miah"
+ MTP_radical_socialist_ADJ:0 "Miahn"
+ MTP_radical_socialist_DEF:0 "Miah"
+ MTP_social_democrat:0 "Miahn Republic"
+ MTP_social_democrat_ADJ:0 "Miahn"
+ MTP_social_democrat_DEF:0 "Miahn Republic"
+ MTP_social_liberal:0 "United States Of Miah"
+ MTP_social_liberal_ADJ:0 "United States Of Miah"
+ MTP_social_liberal_DEF:0 "United States Of Miah"
+ MTP_market_liberal:0 "Miahn Republic"
+ MTP_market_liberal_ADJ:0 "Miahn"
+ MTP_market_liberal_DEF:0 "Miahn Republic"
+ MTP_social_conservative:0 "Miahn Republic"
+ MTP_social_conservative_ADJ:0 "Miahn"
+ MTP_social_conservative_DEF:0 "Miahn Republic"
+ MTP_authoritarian_democrat:0 "Miahn Republic"
+ MTP_authoritarian_democrat_ADJ:0 "Miahn"
+ MTP_authoritarian_democrat_DEF:0 "Miahn"
+ MTP_paternal_autocrat:0 "Miahn Empire"
+ MTP_paternal_autocrat_ADJ:0 "Miahn"
+ MTP_paternal_autocrat_DEF:0 "Miahn Empire"
+ MTP_national_populist:0 "Miahn Empire"
+ MTP_national_populist_ADJ:0 "Miahn"
+ MTP_national_populist_DEF:0 "Miahn Empire"

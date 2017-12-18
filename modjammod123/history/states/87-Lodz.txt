@@ -4,7 +4,8 @@ state = {
 	name="STATE_87"
 
 	history={
-		owner = TAG
+		owner = MTP
+		add_core_of = MTP
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 2
@@ -14,7 +15,6 @@ state = {
 		victory_points = {
 			9508 3
 		}
-		add_core_of = TAG
 
 	}
 
