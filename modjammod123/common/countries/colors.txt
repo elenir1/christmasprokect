@@ -37,3 +37,8 @@ CRN = {
 	color = rgb { 208 240 192 }
 	color_ui = rgb { 208 240 192 }
 }
+
+KRL = {
+	color = rgb { 144 0 32 }
+	color_ui = rgb { 144 0 32 }
+}
