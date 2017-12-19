@@ -1,0 +1,29 @@
+spriteTypes = {
+	
+	########Ideascrusno########
+
+	spriteType = {
+		name = "GFX_idea_CRN_Legacyofthegreatpurge"
+		texturefile = "gfx/interface/ideas/CRN/CRN_legacyofthegreatpurge.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CRN_noenglishspeakers"
+		texturefile = "gfx/interface/ideas/CRN/CRN_foreignrelationscrisis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_CRN_agrariansociety"
+		texturefile = "gfx/interface/ideas/CRN/CRN_agrariansociety.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CRN_militia"
+		texturefile = "gfx/interface/ideas/CRN/CRN_militia.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_CRN_thewarlords"
+		texturefile = "gfx/interface/ideas/CRN/CRN_thewarlords.dds"
+	}
+}

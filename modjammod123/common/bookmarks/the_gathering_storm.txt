@@ -16,6 +16,14 @@ bookmarks = {
 				
 			}
 		}
+		
+		"CRN"={
+			history = "CRN_GATHERING_STORM_DESC"
+			ideology = radical_socialist
+			ideas = {
+				
+			}
+		}
 
 
 		# minors from DLC ####

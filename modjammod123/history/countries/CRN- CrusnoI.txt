@@ -32,6 +32,26 @@ set_politics = {
 	elections_allowed = no
 }
 
+add_ideas = {
+    CRN_Legacyofthegreatpurge
+}
+
+add_ideas = {
+    CRN_noenglishspeakers
+}
+
+add_ideas = {
+    CRN_agrariansociety
+}
+
+add_ideas = {
+    CRN_militia
+}
+
+add_ideas = {
+    CRN_thewarlords
+}
+
 create_country_leader = {
 	name = "Crusno I"
 	desc = ""
@@ -40,4 +60,12 @@ create_country_leader = {
 	traits = {
 		#
 	}
+}
+
+create_field_marshal = {
+	name = "Crusno I"
+	id = 200889
+		picture = "Portrait_theforbiddenone.dds"
+	traits = { }
+	skill = 1
 }
