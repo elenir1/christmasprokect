@@ -1,0 +1,130 @@
+focus_tree = {
+    id = crusno_focus
+
+    country = {
+        factor = 0
+        modifier = {
+            add = 10
+            tag = CRN
+        }
+    }
+
+    default = no
+    reset_on_civilwar = no
+    continuous_focus_position = { x = 50 y = 1750 }
+
+	focus = {
+		id = CRN_Dealwiththewarlords
+		text = CRN_Dealwiththewarlords
+		icon = GFX_goal_demand_sudetenland
+		prerequisite = { }
+		available = {
+		}
+		x = 4
+		y = 0
+		cost = 10
+		ai_will_do = {
+			factor = 1
+		}	
+		completion_reward = {
+				add_political_power = 50
+		}
+	}
+
+	focus = {
+		id = CRN_Dealwithcrusno2
+		text = CRN_Dealwithcrusno2
+		icon = GFX_focus_CRNnum2
+		prerequisite = { focus = CRN_Dealwiththewarlords }
+		bypass = { 
+			 NOT = {
+ 	             CRN = { controls_state = 79 }
+                   }
+			
+		}
+		available = {
+		   	CRN = { controls_state = 79 }
+		}
+		x = 1
+		y = 1
+		cost = 5
+		ai_will_do = {
+			factor = 1
+		}	
+		completion_reward = {
+				country_event = { days = 1 id = crusno.1 }
+		}
+	}
+	
+	focus = {
+		id = CRN_Dealwithcrusno3
+		text = CRN_Dealwithcrusno3
+		icon = GFX_focus_CRNnum3
+		prerequisite = { focus = CRN_Dealwiththewarlords }
+		bypass = { 
+			 NOT = {
+ 	             CRN = { controls_state = 47 }
+                   }
+		}
+		available = {
+			CRN = { controls_state = 47 }
+		}
+		x = 3
+		y = 1
+		cost = 5
+		ai_will_do = {
+			factor = 1
+		}	
+		completion_reward = {
+				country_event = { days = 1 id = crusno.2 }
+		}
+	}
+	
+	focus = {
+		id = CRN_Dealwithcrusno4
+		text = CRN_Dealwithcrusno4
+		icon = GFX_focus_CRNnum4
+		prerequisite = { focus = CRN_Dealwiththewarlords }
+		bypass = {
+			 NOT = {
+ 	             CRN = { controls_state = 344 }
+                   }
+		}
+		available = {
+			CRN = { controls_state = 344 }
+		}
+		x = 5
+		y = 1
+		cost = 5
+		ai_will_do = {
+			factor = 1
+		}	
+		completion_reward = {
+				country_event = { days = 1 id = crusno.3 }
+		}
+	}
+	
+	focus = {
+		id = CRN_Dealwithcrusno5
+		text = CRN_Dealwithcrusno5
+		icon = GFX_focus_CRNnum5
+		prerequisite = { focus = CRN_Dealwiththewarlords }
+		bypass = { 
+			 NOT = {
+ 	             CRN = { controls_state = 340 }
+                   }
+		}
+		available = {
+			CRN = { controls_state = 340 }
+		}
+		x = 7
+		y = 1
+		cost = 5
+		ai_will_do = {
+			factor = 1
+		}	
+		completion_reward = {
+				country_event = { days = 1 id = crusno.4 }
+		}
+	}
+}

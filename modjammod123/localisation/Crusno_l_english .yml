@@ -54,4 +54,49 @@
  CRN_militia_desc:0 "After the great purge, our army betrayed us. We had to replace them with a less professional militia. To this day, our army is reliant on these militias."
  CRN_thewarlords:0 "The Warlords"
  CRN_thewarlords_desc:0 "The warlords hold a lot of power in our nation, making it harder to implement policies. Along with that, the warlords use part of the population for their private armies."
+ CRN_paythewarlords2:0 "Paying Crusno II"
+ CRN_paythewarlords2_desc:0 "Crusno II was bribed so that he would join Crusno's army. The warlord troops were integrated and Crusno II became a general loyal to Crusno."
+ CRN_paythewarlords3:0 "Paying Crusno III"
+ CRN_paythewarlords3_desc:0 "Crusno III was bribed so that he would join Crusno's army. The warlord troops were integrated and Crusno III became a general loyal to Crusno."
+ CRN_paythewarlords4:0 "Paying Crusno IV"
+ CRN_paythewarlords4_desc:0 "Crusno IV was bribed so that he would join Crusno's army. The warlord troops were integrated and Crusno IV became a general loyal to Crusno."
+ CRN_paythewarlords5:0 "Paying Crusno V"
+ CRN_paythewarlords5_desc:0 "Crusno V was bribed so that he would join Crusno's army. The warlord troops were integrated and Crusno V became a general loyal to Crusno."
+ ##################################
+# Events
+#################################
+
+ crusno.1.t:0 "Dealing With Crusno II"
+ crusno.1.d:0 "We have managed to strike a deal with Crusno II, we can either integrate him and his army into our army through bribery or we can force Him to dismantle his army."
+ crusno.1.a:0 "Bribe Crusno II"
+ crusno.1.b:0 "Force Crusno II to dismantle his army"
+ crusno.2.t:0 "Dealing With Crusno III"
+ crusno.2.d:0 "We have managed to strike a deal with Crusno III, we can either integrate him and his army into our army through bribery or we can force Him to dismantle his army."
+ crusno.2.a:0 "Bribe Crusno III"
+ crusno.2.b:0 "Force Crusno III to dismantle his army"
+ crusno.3.t:0 "Dealing With Crusno IV"
+ crusno.3.d:0 "We have managed to strike a deal with Crusno IV, we can either integrate him and his army into our army through bribery or we can force Him to dismantle his army."
+ crusno.3.a:0 "Bribe Crusno IV"
+ crusno.3.b:0 "Force Crusno IV to dismantle his army"
+ crusno.4.t:0 "Dealing With Crusno V"
+ crusno.4.d:0 "We have managed to strike a deal with Crusno V, we can either integrate him and his army into our army through bribery or we can force Him to dismantle his army."
+ crusno.4.a:0 "Bribe Crusno V"
+ crusno.4.b:0 "Force Crusno V to dismantle his army"
+ ##################################
+# focuses
+##################################
+
+ CRN_Dealwiththewarlords:0 "Deal With The Warlords"
+ CRN_Dealwiththewarlords_desc:0 "The civil war ended a long time ago and the warlords are no longer needed, we should finally deal with them. Although, we should first try to contact the larger warlords, maybe we can integrate them into our army."
+ CRN_Dealwithcrusno2:0 "Deal With Crusno II"
+ CRN_Dealwithcrusno2_desc:0 "We should deal with Crusno II, a very influential warlord."
+ CRN_Dealwithcrusno3:0 "Deal With Crusno III"
+ CRN_Dealwithcrusno3_desc:0 "We should deal with Crusno III, a very talented warlord."
+ CRN_Dealwithcrusno4:0 "Deal With Crusno IV"
+ CRN_Dealwithcrusno4_desc:0 "We should deal with Crusno IV, a pretty smart warlord."
+ CRN_Dealwithcrusno5:0 "Deal With Crusno V"
+ CRN_Dealwithcrusno5_desc:0 "We should deal with Crusno V, a loyal warlord."
+
+ 
+ 
 

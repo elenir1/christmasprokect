@@ -1,0 +1,61 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Crusno IV Division"     ####Spamthistowin####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+}
+
+####UNITS####
+####Shittonofinneficientandbadtroops####
+
+units = {
+    division= {			
+		name = "1st Crusno IV Division"		
+		location = 11764
+		division_template = "Crusno IV Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Crusno IV Division"		
+		location = 11764
+		division_template = "Crusno IV Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Crusno IV Division"		
+		location = 11764
+		division_template = "Crusno IV Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Crusno IV Division"		
+		location = 11764
+		division_template = "Crusno IV Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "5th Crusno IV Division"		
+		location = 11764
+		division_template = "Crusno IV Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "6th Crusno IV Division"		
+		location = 11764
+		division_template = "Crusno IV Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 1
+    }	
+}

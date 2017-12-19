@@ -1,0 +1,138 @@
+﻿add_namespace = crusno
+
+
+country_event = {
+	id = crusno.1
+	title = crusno.1.t
+	desc = crusno.1.d
+	picture = GFX_report_event_generic_sign_treaty1
+	
+	is_triggered_only = yes
+	
+	fire_only_once = yes
+	
+	trigger = {
+			tag = CRN
+			
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = crusno.1.a
+		ai_chance = { factor = 80 }
+		create_corps_commander = { name = "Crusno II" picture = "Portrait_crusno2.dds" traits = { hill_fighter } skill = 3 }
+		add_timed_idea = { idea = CRN_paythewarlords2 days = 365 }
+		load_oob = CRNW2_1936
+	}
+	
+	option = {
+		name = crusno.1.b
+		ai_chance = { factor = 20 }
+		add_political_power = 80
+	}
+}
+
+country_event = {
+	id = crusno.2
+	title = crusno.2.t
+	desc = crusno.2.d
+	picture = GFX_report_event_generic_sign_treaty1
+	
+	is_triggered_only = yes
+	
+	fire_only_once = yes
+	
+	trigger = {
+			tag = CRN
+			
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = crusno.2.a
+		ai_chance = { factor = 80 }
+		create_corps_commander = { name = "Crusno III" picture = "Portrait_crusno3.dds" traits = { urban_assault_specialist } skill = 3 }
+		add_timed_idea = { idea = CRN_paythewarlords3 days = 365 }
+		load_oob = CRNW3_1936
+	}
+	
+	option = {
+		name = crusno.2.b
+		ai_chance = { factor = 20 }
+		add_political_power = 80
+	}
+}
+
+country_event = {
+	id = crusno.3
+	title = crusno.3.t
+	desc = crusno.3.d
+	picture = GFX_report_event_generic_sign_treaty1
+	
+	is_triggered_only = yes
+	
+	fire_only_once = yes
+	
+	trigger = {
+			tag = CRN
+			
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = crusno.3.a
+		ai_chance = { factor = 80 }
+		create_corps_commander = { name = "Crusno IV" picture = "Portrait_crusno4.dds" traits = { desert_fox } skill = 3 }
+		add_timed_idea = { idea = CRN_paythewarlords4 days = 365 }
+		load_oob = CRNW4_1936
+	}
+	
+	option = {
+		name = crusno.3.b
+		ai_chance = { factor = 20 }
+	    add_political_power = 80
+	}
+}
+
+country_event = {
+	id = crusno.4
+	title = crusno.4.t
+	desc = crusno.4.d
+	picture = GFX_report_event_generic_sign_treaty1
+	
+	is_triggered_only = yes
+	
+	fire_only_once = yes
+	
+	trigger = {
+			tag = CRN
+			
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = crusno.4.a
+		ai_chance = { factor = 80 }
+		create_corps_commander = { name = "Crusno V" picture = "Portrait_crusno5.dds" traits = { fortress_buster } skill = 3 }
+		add_timed_idea = { idea = CRN_paythewarlords5 days = 365 }
+		load_oob = CRNW5_1936
+	}
+	
+	option = {
+		name = crusno.4.b
+		ai_chance = { factor = 20 }
+	    add_political_power = 80
+	}
+}
