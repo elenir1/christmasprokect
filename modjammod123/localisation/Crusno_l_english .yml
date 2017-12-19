@@ -45,11 +45,11 @@
 # Ideas
 ##################################
  CRN_Legacyofthegreatpurge:0 "Legacy Of The Great Purge"
- CRN_Legacyofthegreatpurge_Desc:0 "The great purge was our effort in 1916 to eliminate all counter-revolutionary elements in our society, with the main target being the people who voted against us in the false elections. Our army rebelled too and a civil war errupted in the country. We managed to win the civil war in 1923, at the cost of many of our young men dying in the war. The population to this day still fears the government, with the amount of innocent blood it has spilled over the years."
+ CRN_Legacyofthegreatpurge_desc:0 "The great purge was our effort in 1916 to eliminate all counter-revolutionary elements in our society, with the main target being the people who voted against us in the false elections. Our army rebelled too and a civil war errupted in the country. We managed to win the civil war in 1923, at the cost of many of our young men dying in the war. The population to this day still fears the government, with the amount of innocent blood it has spilled over the years."
  CRN_noenglishspeakers:0 "Lack Of Diplomats"
  CRN_noenglishspeakers_desc:0 "Due to the lack of education, we have been unable to obtain diplomats. This has reduced our ability to cooperate with other countries."
  CRN_agrariansociety:0 "Agrarian Society"
- CRN_agrariansociety_desc:0 "Our economy is based in agriculture, this however, has slowed down the industrialization of our nation."
+ CRN_agrariansociety_desc:0 "Our economy is mainly based on agriculture, this has slowed down the industrialization of our nation."
  CRN_militia:0 "The Militia"
  CRN_militia_desc:0 "After the great purge, our army betrayed us. We had to replace them with a less profesional militia. To this day, our army is reliant on these militias."
  CRN_thewarlords:0 "The Warlords"
