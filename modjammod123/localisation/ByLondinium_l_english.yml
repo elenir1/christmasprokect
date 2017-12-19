@@ -5,3 +5,11 @@
  londinium_focus:0 "Londinian Focus Tree"
  LND_external_politics:0 "External Politics"
  LND_external_politics_desc:0 "We must use our might to exert influence on the countries around us, so they may act to our advantage."
+ #Ideas
+ LND_InvestProfit:0 "Profits from Investments"
+ LND_InvestProfit_desc:0 "The Republic is a heavy target for investors, which generates a lot of profit."
+ LND_FreeRepublic:0 "Spirit of the Republic"
+ LND_FreeRepublic_desc:0 "The people of the Londinian Republic are united under the spirit of the country's ideals: Freedom and Prosperity. This strengthens government support and keeps the nation united."
+ LND_MilArrogance:0 "Arrogant Victors"
+ LND_MilArrogance_desc:0 "The Military of the Republic has become quite arrogant over their achievements in the first war, and the adaptation to new ideas happens rather sluggishly."
+ LND_Republic:0 "§RThe people of this country love their freedom and will defend it if threatened.§!"

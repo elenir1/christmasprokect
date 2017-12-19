@@ -1,0 +1,52 @@
+ideas = {
+	country = {
+		LND_InvestProfit = {
+			allowed = {
+				original_tag = LND
+			}
+			
+			picture = generic_goods_red_bonus
+			
+			removal_cost = -1
+			
+			modifier = {
+				industrial_capacity_factory = 0.25
+				production_factory_efficiency_gain_factor = 0.25
+				consumer_goods_factor = -0.1
+			}
+		}
+		LND_FreeRepublic = {
+			allowed = {
+				original_tag = LND
+			}
+			
+			picture = generic_democratic_drift_bonus
+			
+			removal_cost = -1
+			
+			modifier = {
+				unity_factor = 0.10
+				custom_effect_tooltip = LND_Republic
+			}
+		}
+		LND_MilArrogance = {
+			allowed = {
+				original_tag = LND
+			}
+			
+			picture = generic_victors_of_ww1
+			
+			removal_cost = -1
+			
+			research_bonus = { 
+				land_doctrine = -0.75
+				air_doctrine = -0.75
+				naval_doctrine = -0.75
+			}
+			
+			modifier = {
+				#
+			}
+		}
+	}
+}

@@ -6,7 +6,6 @@ set_research_slots = 3
 
 set_national_unity = 0.70
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
     marines = 1
@@ -25,6 +24,12 @@ set_technology = {
 	battlefleet_concentration = 1
 }
 
+add_ideas = {
+	LND_FreeRepublic
+	LND_InvestProfit
+	LND_MilArrogance
+}
+
 set_convoys = 40
 
 set_politics = {
@@ -35,28 +40,27 @@ set_politics = {
 		}
 
 		national_populist = {
-			popularity = 5
+			popularity = 0
 		}
 		
 		social_democrat = {
 			popularity = 80
-			#banned = no #default is no
 		}
 		
-		authoritarian_democrat = { 
-			popularity = 5
+		market_liberal = { 
+			popularity = 10
 		}
 	}
 	
 	ruling_party = social_democrat
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 create_country_leader = {
 	name = "Londinium"
-	desc = ""
+	desc = "#"
 	picture = "Portrait_londinium.dds"
 	ideology = social_democrat_subtype
 	traits = {
