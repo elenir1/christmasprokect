@@ -6,7 +6,8 @@ state = {
 	state_category = city
 	
 	history={
-		owner = TAG
+		owner = SCR
+		add_core_of = SCR
 		victory_points = {
 			11479 10
 		}
@@ -15,7 +16,6 @@ state = {
 			industrial_complex = 1
 			air_base = 5
 		}
-		add_core_of = TAG
 	}
 
 	provinces={

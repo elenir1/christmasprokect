@@ -47,3 +47,8 @@ MTP = {
 	color = rgb { 228 77 48 }
 	color_ui = rgb { 228 77 48 }
 }
+
+SCR = {
+	color = rgb { 25 25 112 }
+	color_ui = rgb { 25 25 112 }
+}

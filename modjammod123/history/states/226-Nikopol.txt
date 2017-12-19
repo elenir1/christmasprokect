@@ -11,7 +11,8 @@ state = {
 	}
 
 	history={
-		owner = TAG
+		owner = SCR
+		add_core_of = SCR
 		victory_points = {
 			11437 1
 		}
@@ -24,7 +25,6 @@ state = {
 			arms_factory = 1
 			air_base = 2
 		}
-		add_core_of = TAG
 	}
 
 	provinces={

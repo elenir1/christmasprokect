@@ -1,0 +1,42 @@
+﻿l_english:
+
+
+#############################
+# party and other stuff
+#############################
+ SCR_national_populist_party:0 "Spaceraider Party"
+ SCR_national_populist_party_long:0 "Spaceraider Party"
+
+##################################
+# Country name
+##################################
+ SCR_totalist:0 "Spaceraideria"
+ SCR_totalist_ADJ:0 "Spaceraiderian"
+ SCR_totalist_DEF:0 "Spaceraideria"
+ SCR_syndicalist:0 "Spaceraideria"
+ SCR_syndicalist_ADJ:0 "Spaceraiderian"
+ SCR_syndicalist_DEF:0 "Spaceraideria"
+ SCR_radical_socialist:0 "Spaceraideria"
+ SCR_radical_socialist_ADJ:0 "Spaceraiderian"
+ SCR_radical_socialist_DEF:0 "Spaceraideria"
+ SCR_social_democrat:0 "Spaceraiderian Republic"
+ SCR_social_democrat_ADJ:0 "Spaceraiderian"
+ SCR_social_democrat_DEF:0 "Spaceraiderian Republic"
+ SCR_social_liberal:0 "Spaceraiderian Republic"
+ SCR_social_liberal_ADJ:0 "Spaceraiderian"
+ SCR_social_liberal_DEF:0 "Spaceraiderian Republic"
+ SCR_market_liberal:0 "Spaceraiderian Republic"
+ SCR_market_liberal_ADJ:0 "Spaceraiderian"
+ SCR_market_liberal_DEF:0 "Spaceraiderian Republic"
+ SCR_social_conservative:0 "Spaceraiderian Republic"
+ SCR_social_conservative_ADJ:0 "Spaceraiderian"
+ SCR_social_conservative_DEF:0 "Spaceraiderian Republic"
+ SCR_authoritarian_democrat:0 "Spaceraiderian State"
+ SCR_authoritarian_democrat_ADJ:0 "Spaceraiderian"
+ SCR_authoritarian_democrat_DEF:0 "Spaceraiderian State"
+ SCR_paternal_autocrat:0 "Spaceraiderian Empire"
+ SCR_paternal_autocrat_ADJ:0 "Spaceraiderian"
+ SCR_paternal_autocrat_DEF:0 "Spaceraiderian Empire"
+ SCR_national_populist:0 "State Of Spaceraider"
+ SCR_national_populist_ADJ:0 "Spaceraiderian"
+ SCR_national_populist_DEF:0 "State Of Spaceraider"

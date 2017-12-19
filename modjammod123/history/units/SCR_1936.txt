@@ -1,0 +1,185 @@
+﻿####TEMPLATES####
+
+division_template = {
+	name = "Infantry Division"     ####Cyka####
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+
+	support = {
+        artillery = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Tank Division" ####Blyat####
+
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+        light_armor = { x = 1 y = 0 }
+		light_armor = { x = 1 y = 1 }
+	}
+}
+
+####UNITS####
+####REBUILDINGFORREVENGE####
+
+units = {
+    division= {			
+		name = "1st Division"		
+		location = 11670
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Division"		
+		location = 11670
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Division"		
+		location = 11670
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "4th Division"		
+		location = 11670
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "5th Division"		
+		location = 11670
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "6th Division"		
+		location = 11670
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "7th Division"		
+		location = 11670
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "1st Tank Brigade"		
+		location = 11670
+		division_template = "Tank Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "2nd Tank Brigade"		
+		location = 11670
+		division_template = "Tank Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "3rd Tank Brigade"		
+		location = 11479
+		division_template = "Tank Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "8th Division"		
+		location = 11479
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "9th Division"		
+		location = 11479
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "10th Division"		
+		location = 11479
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "11th Division"		
+		location = 11479
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "12th Division"		
+		location = 11479
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "13th Division"		
+		location = 11479
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+    division= {			
+		name = "14th Division"		
+		location = 11479
+		division_template = "Infantry Division"
+		start_experience_factor = 0.2
+		start_equipment_factor = 1
+    }
+	#####biguy#####
+		navy = {				
+		name = "Space Rider Fleet"			
+		base = 3686
+		location = 3686
+		ship = { name = "SRS Bread" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Basquet" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Cyka" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Blyat" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Memerino" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Black" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Sea" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Ship MCshippyface" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Clippy" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Battleshiep" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Dreadnaught" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SCR } } }
+		ship = { name = "SRS Luxembourg World Conquest" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SCR } } }
+	}
+}		
+
+air_wings = {
+	###lorelorelorelorelore
+	200 = {
+		fighter_equipment_0 =  {
+			owner = "SCR" 
+			amount = 55
+		}
+		tac_bomber_equipment_0 =  { owner = "SCR" amount = 23 }
+	}
+}
